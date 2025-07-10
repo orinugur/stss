@@ -1,0 +1,14 @@
+C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin\Debug\net8.0-windows\STS.exe
+C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin\Debug\net8.0-windows\STS.deps.json
+C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin\Debug\net8.0-windows\STS.runtimeconfig.json
+C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin\Debug\net8.0-windows\STS.dll
+C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin\Debug\net8.0-windows\STS.pdb
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.AssemblyInfo.cs
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.dll
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\refint\STS.dll
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.pdb
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\STS.genruntimeconfig.cache
+C:\Users\KGA\Desktop\20240322\obj\Debug\net8.0-windows\ref\STS.dll
