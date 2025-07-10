@@ -6,7 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>True</UseWindowsForms>
-    <BaseOutputPath>C:\Users\KGA\Desktop\슬더스가되고싶었어\20240321\bin</BaseOutputPath>
   </PropertyGroup>
 
 </Project>

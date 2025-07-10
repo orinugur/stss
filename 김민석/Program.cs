@@ -237,7 +237,11 @@ namespace STS
         //다음부터는 이딴짓안하고 int형 두개받아다가 작업하겠음..
         public static void Centermentnew(int a)
         {
-            Console.SetCursorPosition(40, 13 + a);
+            int top = 13 + a;
+            int maxTop = Console.BufferHeight - 1;
+            if (top < 0) top = 0;
+            if (top > maxTop) top = maxTop;
+            Console.SetCursorPosition(40, top);
         }
 
         // Player 인스턴스를 받아오는 생성자
