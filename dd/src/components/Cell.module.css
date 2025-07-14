@@ -1,0 +1,15 @@
+.cell {
+  width: 24px;
+  height: 24px;
+  background: #222;
+  border-radius: 3px;
+  border: 1px solid #333;
+  box-sizing: border-box;
+}
+.color1 { background: #00eaff; }
+.color2 { background: #ffe600; }
+.color3 { background: #b366ff; }
+.color4 { background: #00ff7f; }
+.color5 { background: #ff5252; }
+.color6 { background: #3b6cff; }
+.color7 { background: #ff9900; }

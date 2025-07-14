@@ -1,0 +1,68 @@
+.boardWrap {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  margin-top: 16px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 120px;
+  font-size: 1.1rem;
+  gap: 16px;
+}
+.next {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.nextRow {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+}
+.board {
+  position: relative;
+  background: #222;
+  border: 3px solid #444;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px #000a;
+  padding: 8px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+}
+.gameOver {
+  position: absolute;
+  top: 30%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: rgba(0,0,0,0.8);
+  color: #ff5252;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 32px 0 16px 0;
+  border-radius: 8px;
+  z-index: 2;
+}
+.empty {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background: transparent;
+}
+.color1 { background: #00eaff; width: 18px; height: 18px; }
+.color2 { background: #ffe600; width: 18px; height: 18px; }
+.color3 { background: #b366ff; width: 18px; height: 18px; }
+.color4 { background: #00ff7f; width: 18px; height: 18px; }
+.color5 { background: #ff5252; width: 18px; height: 18px; }
+.color6 { background: #3b6cff; width: 18px; height: 18px; }
+.color7 { background: #ff9900; width: 18px; height: 18px; }
